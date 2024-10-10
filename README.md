@@ -16,7 +16,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Pra mais comunicações, clique nas minhas redes abaixo
  
 <div> 
   <a href = "mailto:vinir.barbeiro109@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
